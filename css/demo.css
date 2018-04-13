@@ -1,0 +1,90 @@
+/*
+* @Author: Administrator
+* @Date:   2018-03-07 16:25:11
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-03-18 08:42:17
+*/
+.jisuanqi{
+	width: 500px;
+	height: 888px;
+	background: red;
+	margin:0 auto;
+
+}
+.header{
+	width: 500px;
+	height: 88px;
+	background: #00a5c4;
+	font-size: 30px;
+}
+.header_left{
+	width: 99px;
+	height: 88px;
+	
+	margin-left: 30px;
+	float: left;
+	font-size: 24px;
+	line-height: 88px;
+}
+.header_right{
+	width: 7px;
+	height: 24px;
+	background: #00a5c4;
+	float: right;
+	margin: 30px 30px 0 0;
+}
+
+.top{
+	width: 500px;
+	height:259px;
+	background: #f0f0f0;
+}
+.xiala{
+	width: 500px;
+	height: 47px;
+	background: #dfe3e4;
+}
+.bottom{
+	width: 500px;
+	height: 500px;
+	background: #fafafa;
+}
+.anjian{
+	width: 123px;
+	height: 98px;
+	background: #f2f4f4;
+	margin-right: 2px;
+	margin-top: 3px;
+	float: left;
+	font-size: 80px;
+	color: #2e6069;
+	text-align: center;
+
+
+}
+.anjian1{
+	width: 124px;
+}
+.anjian2{
+	margin-right: 0px;
+}
+.yuan{
+	width: 7px;
+	height: 7px;
+	border-radius:50%;
+	background: #ffffff;
+	margin-bottom: 2px;
+}
+.yuan1{
+	margin-bottom: 0px;
+}
+.shu{
+	width: 3px;
+	height: 77px;
+	background: #41b9d0;
+	float: right;
+	margin: 10px 15px 0 0;
+}
+.jiantou{
+	text-align: center;
+}
